@@ -1,12 +1,11 @@
-# YouTube Plus (ex. YTLite)
-A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
+# YTLiteC
+A compiled flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
 ## Table of Contents
 - [Screenshots](#screenshots)
 - [Main Features](#main-features)
 - [FAQ](#faq)
 - [Reviews](#reviews)
-- [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Tweak Integration Details](#tweak-integration-details)
 
