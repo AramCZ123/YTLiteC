@@ -1,5 +1,6 @@
 # YTLiteC
 A compiled flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
+Original YTLite: https://github.com/dayanch96/YTLite
 
 ## Table of Contents
 - [Screenshots](#screenshots)
